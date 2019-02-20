@@ -1,0 +1,18 @@
+.wrapper {
+  width: 50%;
+  margin: auto;
+}
+.headerWrapper {
+  background: green;
+  height: 40px;
+}
+.listWrapper {
+  padding: 0px;
+  margin: 0px;
+}
+.sblist {
+  list-style: none;
+  background: red;
+  padding: 5px;
+  border: 1px solid black;
+}

@@ -1,2 +1,0 @@
-# SelectBox
-Created with CodeSandbox
